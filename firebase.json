@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "punlic",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
